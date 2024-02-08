@@ -4,3 +4,4 @@
 #### 4. [SpringBoot] 웹소켓을 이용한 채팅 구현: https://dogandbird.tistory.com/93
 #### 5. HTML 기본 문법: https://dogandbird.tistory.com/95
 #### 6. Lombok의 @Builder 알아보기: https://dogandbird.tistory.com/98
+#### 7. 자주 사용되는 JPA 어노테이션: https://dogandbird.tistory.com/99
