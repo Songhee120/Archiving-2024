@@ -5,3 +5,4 @@
 #### 5. HTML 기본 문법: https://dogandbird.tistory.com/95
 #### 6. Lombok의 @Builder 알아보기: https://dogandbird.tistory.com/98
 #### 7. 자주 사용되는 JPA 어노테이션: https://dogandbird.tistory.com/99
+#### 8. 채팅 ERD : https://dogandbird.tistory.com/100
