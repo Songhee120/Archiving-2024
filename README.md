@@ -6,3 +6,4 @@
 #### 6. Lombok의 @Builder 알아보기: https://dogandbird.tistory.com/98
 #### 7. 자주 사용되는 JPA 어노테이션: https://dogandbird.tistory.com/99
 #### 8. 채팅 ERD : https://dogandbird.tistory.com/100
+#### 9. OSI 7계층 : https://dogandbird.tistory.com/103
