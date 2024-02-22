@@ -10,3 +10,4 @@
 #### 10. [STOMP/채팅 구현] 1. 설정파일 작성 : https://dogandbird.tistory.com/104
 #### 11. [자바문법] Optional : https://dogandbird.tistory.com/105
 #### 12. Dto와 Entity 사이에서의 혼란 😨 : https://dogandbird.tistory.com/106
+#### 13. [백준1931번/자바] 회의실 배정 : https://dogandbird.tistory.com/107
