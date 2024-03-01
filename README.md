@@ -13,3 +13,4 @@
 #### 13. [백준1931번/자바] 회의실 배정 : https://dogandbird.tistory.com/107
 #### 14. JUnit의 세부 모듈과 생명주기 : https://dogandbird.tistory.com/108
 #### 15. 인텔리제이 유용한 단축키 모음 :  https://dogandbird.tistory.com/111
+#### 16. JPA DDL 생성 오류 : https://dogandbird.tistory.com/112
