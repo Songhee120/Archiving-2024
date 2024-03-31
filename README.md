@@ -16,3 +16,4 @@
 #### 16. JPA DDL 생성 오류 : https://dogandbird.tistory.com/112
 #### 17. [Stomp/채팅구현] ChannelInterceptor : https://dogandbird.tistory.com/114
 #### 18. Spark/RDD (Resilient Distributed Dataset) : https://dogandbird.tistory.com/123
+#### 19. [스프링부트] 어노테이션을 사용한 api 작성 방법 : https://dogandbird.tistory.com/126
