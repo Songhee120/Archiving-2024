@@ -17,3 +17,4 @@
 #### 17. [Stomp/채팅구현] ChannelInterceptor : https://dogandbird.tistory.com/114
 #### 18. Spark/RDD (Resilient Distributed Dataset) : https://dogandbird.tistory.com/123
 #### 19. [스프링부트] 어노테이션을 사용한 api 작성 방법 : https://dogandbird.tistory.com/126
+#### 20. 스프링 DI : https://dogandbird.tistory.com/129
